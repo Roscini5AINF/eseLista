@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         b1=(Button)findViewById(R.id.b1);
     }
     public void play(View r){
-        Intent i;
+        Intent i=new Intent(getApplicationContext(), lista.class);
+        startActivity(i);
     }
 }
