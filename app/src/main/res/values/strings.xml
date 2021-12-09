@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">eselista</string>
-    <string name="t1">Premi il bottone!</string>
+    <string name="t1">Premi il bottone per andare alla seconda activity</string>
     <string name="b1">Visualizza</string>
-    <string name="t2">Benvenuto nella seconda activity!</string>
+    <string name="t2">Premi il bottone per andare alla terza activity popolata con arraylist!</string>
+    <string name="b2">Vai</string>
+    <string name="t3">Benvenuto/a nella terza activity!</string>
 </resources>

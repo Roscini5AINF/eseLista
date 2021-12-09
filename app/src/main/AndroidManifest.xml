@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Eselista">
         <activity
+            android:name=".arraylist"
+            android:exported="false" />
+        <activity
             android:name=".lista"
             android:exported="false" />
         <activity
